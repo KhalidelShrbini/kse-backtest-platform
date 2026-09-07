@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/31891332/README.md)
 # KSE Backtest Platform
 
-A live, multi-asset quantitative strategy backtesting terminal built in a single Streamlit/Python file — no database, no backend server, just live market data and a real cost/risk engine underneath it.
+A live, multi-asset quantitative strategy backtesting terminal built in a single Streamlit/Python file; no database, no backend server, just live market data and a real cost/risk engine underneath it.
 
 **[Live app →](https://kse-backtest-platform.streamlit.app)**
 
